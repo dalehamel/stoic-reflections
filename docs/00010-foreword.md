@@ -1,5 +1,5 @@
 ---
-title: Production Breakpoints
+title: Stoic Reflections
 author: Dale Hamel
 header-includes: |
     \usepackage{fvextra}
@@ -7,4 +7,3 @@ header-includes: |
 ---
 
 This document is also available in [epub](./output/doc.epub) and [pdf](./output/doc.pdf) format if you prefer.
-

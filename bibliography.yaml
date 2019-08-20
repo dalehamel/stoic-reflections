@@ -1,7 +1,6 @@
 references:
-- id: 
-  title: 
+- id: enchiridion-gutenberg
+  title: The Enchiridion
   author:
-  - given: 
-    family: 
-  URL: 
+  - given: Epictetus
+  URL: https://www.gutenberg.org/ebooks/45109
