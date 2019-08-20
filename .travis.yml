@@ -7,7 +7,6 @@ script:
 - rm .gitignore
 env:
   matrix:
-  - "// Add secret here via travis instructions"
   - secure: AlHS4OYd9mOcGdnBdf4XgTqtCMohTeayaow3EYj27IYyAAhIixlciiAaN3wi21y2u6rMlcrQ7UrZlLX6rNy+rwBQXpP8nvBUulzxZHaiCEx4jV5zV9lQdWwlx5SN+ubSrmqVKuW6KqETQN4oTxaAfO/QQUKbcrV0lv6O+JYZC6I+2BAQ7GH49/anSTn5SImK8MKQhtKrbqKcCUt/6ar+gMOuN2xI4w8dQZr4itMj380feN/rZraumsfQgbtud2FMJbKoizshV8YnDxI7POMmZa53YEDrSMJhEqmdjG7BEf1TDk+iVBRS9mzvxO9zde5fedgC9uLPO/2pp7PS200oF+eYw9W/NLOkm+4PJF3zvQmKG5wbAR0vSrRJaLkbjwb+MwVhaPe99S4UeXUV3iR/NVDFxuRmIDhf/O4Yz1Tqx3DzHc4LlHWQwofHp9/W6Efd4MIN9MIc+ggTVsZXQqS9t4GGodguRAQVKJ1lUjsetSPQX3C/NG4vfUx9HLX/c9Y7HFbiF8Q3nt8Y4+po479yfZyF7Lml1M6lYG5FvMjx1oA7zZty2OQ8RxqhYQKQSkZXPOTb+xJ6fH+KDeYdo+X520NzVrM5dCtvU4AxsnSu3UfS4gJyXiSMWAlfe6T9Lkz7HNOkLt5viW7SIPW6H+8QeYAzkakfdAaposdvDPgyg8A=
 deploy:
   provider: pages

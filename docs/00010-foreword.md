@@ -1,12 +1,10 @@
 ---
-title: Your Awesome Doc
-author: You!
-
+title: Production Breakpoints
+author: Dale Hamel
 header-includes: |
     \usepackage{fvextra}
     \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
-
 ---
 
-# My Dissertation / Pontification goes here
+This document is also available in [epub](./output/doc.epub) and [pdf](./output/doc.pdf) format if you prefer.
 
