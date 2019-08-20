@@ -6,4 +6,4 @@ header-includes: |
     \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
 ---
 
-This document is also available in [epub](./output/doc.epub) and [pdf](./output/doc.pdf) format if you prefer.
+This document [@this-document] is also available in [epub](./output/doc.epub) and [pdf](./output/doc.pdf) format if you prefer.

@@ -1,4 +1,10 @@
 references:
+- id: this-document
+  title: Stoic Reflections
+  author:
+  - given: Dale
+    family: Hamel
+  URL: http://blog.srvthe.net/stoic-reflections/
 - id: enchiridion-gutenberg
   title: The Enchiridion
   author:
