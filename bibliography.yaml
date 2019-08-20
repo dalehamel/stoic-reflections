@@ -4,3 +4,33 @@ references:
   author:
   - given: Epictetus
   URL: https://www.gutenberg.org/ebooks/45109
+- id: epictetus-discourses
+  title: The Discourses of Epictetus
+  author:
+  - given: Epictetus
+  URL: https://oll.libertyfund.org/titles/epictetus-the-works-of-epictetus-consisting-of-his-discourses-in-four-books#toc
+- id: epictetus-discourses-wretched-leg
+  title: Discourses one wretched leg quote
+  author:
+  - given: Epictetus
+  URL: https://oll.libertyfund.org/titles/epictetus-the-works-of-epictetus-consisting-of-his-discourses-in-four-books#Epictetus_0755_190
+- id: epictetus-discourses-matheson
+  title: Matheson Translation of Epictetus Discourses
+  author:
+  - given: Percy Ewing
+  - family: Matheson
+  URL: http://www.sacred-texts.com/cla/dep/dep013.htm
+- id: epictetus-discourses-matheson-leg
+  title: Wretched leg quote, Matheson
+  author:
+  - given: Percy Ewing
+  - family: Matheson
+  URL: http://www.sacred-texts.com/cla/dep/dep013.htm
+- id: epictetus-discourses-matheson-leg-alt
+  title: Wretched leg quote, preferred translation
+  author:
+  - given: Epictetus
+  URL: https://books.google.ca/books?id=lic3DwAAQBAJ&pg=PA29&lpg=PA29&dq=slave+do+you+mean+to+arraign+the+universe&source=bl&ots=gddganHimw&sig=ACfU3U0-fZN43-2eJpIZ5Jce_1v2CMbnJw&hl=en&sa=X&ved=2ahUKEwj12L-ItpDkAhVxh-AKHf33BA8Q6AEwC3oECAwQAQ#v=onepage&q=slave%20do%20you%20mean%20to%20arraign%20the%20universe&f=false
+- id: discourses-epictetus-source
+  title: Source for text of discourses of epictetus
+  URL: http://www.sacred-texts.com/cla/dep/index.htm
