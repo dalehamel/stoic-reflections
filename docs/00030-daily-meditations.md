@@ -47,14 +47,13 @@ stranger would is probably closer to Epictetus' original advice from the
 Enchiridion.
 
 In particular, when I catch myself bewailing something trivial, I like to
-myself hearing Epictetus wail sarcastically "AlAs! HoW WreTchED Am I!" at my
-imagined hardship.
+myself hearing Epictetus jokingly chide me "AlAs! HoW WreTchED Am I!" at my
+imagined hardships.
 
 Another quote that I particularly like is from the discourses of Epictetus:
 
 ```{.email include=src/epictetus-discourses/discourses.txt startLine=1379 endLine=1381}
 ```
-[@discourses-epictetus-source]
 [@epictetus-discourses-matheson-leg]
 
 Though other translations [@epictetus-discourses] have it as:

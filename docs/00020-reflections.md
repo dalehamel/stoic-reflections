@@ -1,6 +1,6 @@
 ```{.email include=src/enchiridion/enchiridion.txt startLine=674 endLine=684}
 ```
-[@enchiridion-gutenberg]
+Epictetus, Enchiridion #22 [@enchiridion-gutenberg]
 
 This document will hopefully not make me appear to think I am an expert in
 philosophy or Stoicism.
