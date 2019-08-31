@@ -30,13 +30,13 @@ references:
   title: Matheson Translation of Epictetus Discourses
   author:
   - given: Percy Ewing
-  - family: Matheson
+    family: Matheson
   URL: http://www.sacred-texts.com/cla/dep/dep013.htm
 - id: epictetus-discourses-matheson-leg
   title: Wretched leg quote, Matheson
   author:
   - given: Percy Ewing
-  - family: Matheson
+    family: Matheson
   URL: http://www.sacred-texts.com/cla/dep/dep013.htm
 - id: epictetus-discourses-matheson-leg-alt
   title: Wretched leg quote, preferred translation
@@ -50,41 +50,49 @@ references:
   title: William Irvine Literary Website
   author:
   - given: William
-  - family: Irvine
+    family: Irvine
   URL: https://www.williambirvine.com
 - id: goodreads-a-guide-to-the-good-life
   title: A Guide to the Good Life - The Ancient Art of Stoic Joy
   author:
   - given: William
-  - family: Irvine
+    family: Irvine
   URL: https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life
 - id: how-to-be-a-stoic-homepage
   title: Massimo Pigliucci Stoicism Wordpress
   author:
   - given: Massimo
-  - family: Pigliucci
+    family: Pigliucci
   URL: https://howtobeastoic.wordpress.com/
 - id: goodreads-how-to-be-a-stoic
   title: How to be a Stoic - Using Ancient Philosophy to Live a Modern Life
   author:
   - given: Massimo
-  - family: Pigliucci
+    family: Pigliucci
   URL: https://www.goodreads.com/book/show/31423245-how-to-be-a-stoic
 - id: goodreads-the-obstacle-is-the-way
   title: The Obstacle Is The Way
   author:
   - given: Ryan
-  - family: Holiday
+    family: Holiday
   URL: https://www.penguinrandomhouse.ca/books/314003/the-obstacle-is-the-way-by-ryan-holiday/9781591846352/excerpt
 - id: musonius-rufus
   title: Musonius Rufus (c. 30–62 CE)
   author:
   - given: William
-  - family: O. Stephens
+    family: O. Stephens
   URL: https://www.iep.utm.edu/musonius/
 - id: diogenes-of-sinope
   title: Diogenes of Sinope
   author:
   - given: Joshua
-  - family: Mark
+    family: Mark
   URL: https://www.ancient.eu/Diogenes_of_Sinope/
+
+- id: maimed-leg-greek
+  title:  Epicteti Dissertationes ab Arriano digestae. Epictetus. Heinrich Schenkl.
+  author:
+  - given: Joshua
+    family: Mark
+  - given: Epictetus
+  URL: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0235%3Atext%3Ddisc%3Abook%3D1%3Achapter%3D12

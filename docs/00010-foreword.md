@@ -2,6 +2,7 @@
 title: Stoic Reflections
 author: Dale Hamel
 header-includes: |
+    \setmainfont{DejaVu Sans Mono}
     \usepackage{fvextra}
     \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
 ---
