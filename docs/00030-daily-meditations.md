@@ -65,7 +65,20 @@ Though other translations [@epictetus-discourses] have it as:
 
 Original Greek source since I'm so obsessed with this quote:
 
-> ‘σκέλος οὖν μοι γενέσθαι πεπηρωμένον.’ ἀνδράποδον, εἶτα δι᾽ ἓν σκελύδριον τῷ κόσμῳ ἐγκαλεῖς;
-> οὐκ ἐπιδώσεις αὐτὸ τοῖς ὅλοις; οὐκ ἀποστήσῃ; οὐ χαίρων παραχωρήσεις τῷ δεδωκότι;
+> ‘σκέλος οὖν μοι γενέσθαι πεπηρωμένον’
+> ἀνδράποδον, εἶτα δι᾽ ἓν σκελύδριον τῷ κόσμῳ ἐγκαλεῖς
+
+> μοι - must my
+> σκέλος - leg
+> οὖν - then
+> γενέσθαι - become
+> πεπηρωμένον - lamed
+
+> ἀνδράποδον - lowlife / wretch / slave / one who acting slavishly
+> εἶτα δι᾽ ἓν σκελύδριον - then for one
+> σκελύδριον  - leg, diminuative form / paltry leg / poor leg
+> ἐγκαλεῖς - (do you) accuse / blame
+> τῷ κόσμῳ - the world / universe
+
 
 [@maimed-leg-greek]
