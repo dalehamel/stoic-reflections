@@ -88,7 +88,6 @@ references:
   - given: Joshua
     family: Mark
   URL: https://www.ancient.eu/Diogenes_of_Sinope/
-
 - id: maimed-leg-greek
   title:  Epicteti Dissertationes ab Arriano digestae. Epictetus. Heinrich Schenkl.
   author:
@@ -96,3 +95,10 @@ references:
     family: Mark
   - given: Epictetus
   URL: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0235%3Atext%3Ddisc%3Abook%3D1%3Achapter%3D12
+- id: letters-to-lucilius
+  title: AD LUCILIUM EPISTULAE MORALES
+  author:
+  - given: Richard
+    family: Gummere
+  - given: Seneca
+  URL: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
