@@ -70,7 +70,7 @@ Original Greek source since I'm so obsessed with this quote:
 
 | Ancient Greek | English |
 |---------------|---------|
-| μοι           | must my |
+| μοι           | my |
 | σκέλος        | leg     |
 | οὖν           | then    |
 | γενέσθαι      | become  |
