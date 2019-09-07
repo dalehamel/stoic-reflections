@@ -65,8 +65,8 @@ Though other translations [@epictetus-discourses] have it as:
 
 Original Greek source since I'm so obsessed with this quote:
 
-> ‘σκέλος οὖν μοι γενέσθαι πεπηρωμένον’
-> ἀνδράποδον, εἶτα δι᾽ ἓν σκελύδριον τῷ κόσμῳ ἐγκαλεῖς
+> ‘σκέλος οὖν μοι γενέσθαι πεπηρωμένον.’
+> ἀνδράποδον, εἶτα δι᾽ ἓν σκελύδριον τῷ κόσμῳ ἐγκαλεῖς;
 
 | Ancient Greek | English |
 |---------------|---------|
