@@ -23,10 +23,25 @@ The full quote comes to us from Epictetus:
 ```
 [@enchiridion-gutenberg]
 
-
 I remind myself that I might die today, or tomorrow. That I have no idea how
 long I could live and that I should be grateful to have another day at my
 disposal.
+
+```{.email include=src/letters-to-lucilius/Moral_letters_to_Lucilius.txt startLine=1751 endLine=1757}
+```
+
+From the Gummere translation of Seneca's Epistulae morales ad Lucilium
+[@letters-to-lucilius], Book 2, Letter 13, Verse 16.
+
+The original latin [@letters-to-lucilius-latin] for this appears to be:
+
+```
+Sed iam finem epistulae faciam, si illi signum suum in pressero, id est aliquam
+magnificam vocem perferendam ad te mandavero. 'Inter cetera mala hoc quoque
+habet stultitia: semper incipit vivere.' Considera quid vox ista significet,
+Lucili virorum optime, et intelleges quam foeda sit hominum levitas cotidie
+nova vitae fundamenta ponentium, novas spes etiam in exitu inchoantium.
+```
 
 ## 3 - Step outside yourself
 

@@ -102,3 +102,8 @@ references:
     family: Gummere
   - given: Seneca
   URL: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
+- id: letters-to-lucilius-latin
+  title: AD LUCILIUM EPISTULAE MORALES
+  author:
+  - given: Seneca
+  URL: https://la.wikisource.org/wiki/Epistulae_morales_ad_Lucilium
