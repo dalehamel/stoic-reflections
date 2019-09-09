@@ -89,3 +89,7 @@ http://lindsaybraman.com/burnout/
 ## How to be a Stoic
 
 One day I reflected that I didn't **really** know what 
+
+# Other resources
+
+* Farnam Street Media stoic reading list [@farnam-street-stoic-reading-list]
