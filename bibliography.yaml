@@ -1,0 +1,114 @@
+references:
+- id: this-document
+  title: Stoic Reflections
+  author:
+  - given: Dale
+    family: Hamel
+  URL: http://blog.srvthe.net/stoic-reflections/
+- id: enchiridion-gutenberg
+  title: The Enchiridion
+  author:
+  - given: Epictetus
+  URL: https://www.gutenberg.org/ebooks/45109
+- id: meditations-gutenberg
+  title: Meditations
+  author:
+  - given: Marcus
+    family: Aurelius
+  URL: https://www.gutenberg.org/ebooks/2680
+- id: epictetus-discourses
+  title: The Discourses of Epictetus
+  author:
+  - given: Epictetus
+  URL: https://oll.libertyfund.org/titles/epictetus-the-works-of-epictetus-consisting-of-his-discourses-in-four-books#toc
+- id: epictetus-discourses-wretched-leg
+  title: Discourses one wretched leg quote
+  author:
+  - given: Epictetus
+  URL: https://oll.libertyfund.org/titles/epictetus-the-works-of-epictetus-consisting-of-his-discourses-in-four-books#Epictetus_0755_190
+- id: epictetus-discourses-matheson
+  title: Matheson Translation of Epictetus Discourses
+  author:
+  - given: Percy Ewing
+    family: Matheson
+  URL: http://www.sacred-texts.com/cla/dep/dep013.htm
+- id: epictetus-discourses-matheson-leg
+  title: Wretched leg quote, Matheson
+  author:
+  - given: Percy Ewing
+    family: Matheson
+  URL: http://www.sacred-texts.com/cla/dep/dep013.htm
+- id: epictetus-discourses-matheson-leg-alt
+  title: Wretched leg quote, preferred translation
+  author:
+  - given: Epictetus
+  URL: https://books.google.ca/books?id=lic3DwAAQBAJ&pg=PA29&lpg=PA29&dq=slave+do+you+mean+to+arraign+the+universe&source=bl&ots=gddganHimw&sig=ACfU3U0-fZN43-2eJpIZ5Jce_1v2CMbnJw&hl=en&sa=X&ved=2ahUKEwj12L-ItpDkAhVxh-AKHf33BA8Q6AEwC3oECAwQAQ#v=onepage&q=slave%20do%20you%20mean%20to%20arraign%20the%20universe&f=false
+- id: discourses-epictetus-source
+  title: Source for text of discourses of epictetus
+  URL: http://www.sacred-texts.com/cla/dep/index.htm
+- id: williambirvine
+  title: William Irvine Literary Website
+  author:
+  - given: William
+    family: Irvine
+  URL: https://www.williambirvine.com
+- id: goodreads-a-guide-to-the-good-life
+  title: A Guide to the Good Life - The Ancient Art of Stoic Joy
+  author:
+  - given: William
+    family: Irvine
+  URL: https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life
+- id: how-to-be-a-stoic-homepage
+  title: Massimo Pigliucci Stoicism Wordpress
+  author:
+  - given: Massimo
+    family: Pigliucci
+  URL: https://howtobeastoic.wordpress.com/
+- id: goodreads-how-to-be-a-stoic
+  title: How to be a Stoic - Using Ancient Philosophy to Live a Modern Life
+  author:
+  - given: Massimo
+    family: Pigliucci
+  URL: https://www.goodreads.com/book/show/31423245-how-to-be-a-stoic
+- id: goodreads-the-obstacle-is-the-way
+  title: The Obstacle Is The Way
+  author:
+  - given: Ryan
+    family: Holiday
+  URL: https://www.penguinrandomhouse.ca/books/314003/the-obstacle-is-the-way-by-ryan-holiday/9781591846352/excerpt
+- id: musonius-rufus
+  title: Musonius Rufus (c. 30–62 CE)
+  author:
+  - given: William
+    family: O. Stephens
+  URL: https://www.iep.utm.edu/musonius/
+- id: diogenes-of-sinope
+  title: Diogenes of Sinope
+  author:
+  - given: Joshua
+    family: Mark
+  URL: https://www.ancient.eu/Diogenes_of_Sinope/
+- id: maimed-leg-greek
+  title:  Epicteti Dissertationes ab Arriano digestae. Epictetus. Heinrich Schenkl.
+  author:
+  - given: Joshua
+    family: Mark
+  - given: Epictetus
+  URL: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0235%3Atext%3Ddisc%3Abook%3D1%3Achapter%3D12
+- id: letters-to-lucilius
+  title: AD LUCILIUM EPISTULAE MORALES
+  author:
+  - given: Richard
+    family: Gummere
+  - given: Seneca
+  URL: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
+- id: letters-to-lucilius-latin
+  title: AD LUCILIUM EPISTULAE MORALES
+  author:
+  - given: Seneca
+  URL: https://la.wikisource.org/wiki/Epistulae_morales_ad_Lucilium
+- id: farnam-street-stoic-reading-list
+  title: The Best Stoic Reading List Aurelius, Seneca, Epictetus and More
+  author:
+  - given: Farnam Street Media Inc
+  URL: https://fs.blog/2014/04/the-stoic-reading-list/
